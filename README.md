@@ -1,21 +1,88 @@
-# 💫 About Me:
-🚀 I'm currently working on:<br>- Building real-world projects in [your stack: e.g., Python, Web Dev, DSA]<br>- Improving problem-solving via platforms like LeetCode / Codeforces<br><br>🤝 I'm looking to collaborate on:<br>- Open-source projects (especially beginner-friendly but impactful)<br>- Backend systems, automation tools, or useful student projects<br><br>🆘 I'm looking for help with:<br>- System design basics<br>- Writing clean, scalable code<br>- Open-source contribution workflow<br><br>🌱 I'm currently learning:<br>- Data Structures & Algorithms (seriously, not just saying it)<br>- Backend development (Node.js / Django / etc.)<br>- Git, Linux, and real dev workflows<br><br>💬 Ask me about:<br>- Python basics, DSA prep, or setting up dev environments<br>- Mac + dev setup (ADB, Homebrew, etc.)<br><br>⚡ Fun fact:<br>- I optimize everything — from code to food budget 😄
+# Hi, I'm Aritra Saha
 
+Backend Developer | BCA Student | Building production-grade FastAPI systems with AI integration
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aritra404) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aritra.saha@outlook.in) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aritra404-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/aritra404)
+[![Email](https://img.shields.io/badge/Email-aritra.saha@outlook.in-D14836?logo=gmail&logoColor=white)](mailto:aritra.saha@outlook.in)
+[![GitHub](https://img.shields.io/badge/GitHub-aritraio-181717?logo=github&logoColor=white)](https://github.com/aritraio)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aritraio&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aritraio&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aritraio&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## About
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aritraio&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Computer Science student and backend developer focused on scalable REST APIs, real-time data pipelines, and practical ML deployment.
 
----
-[![](https://visitcount.itsvg.in/api?id=aritraio&icon=0&color=0)](https://visitcount.itsvg.in)
+- Designing low-latency backend systems with Python and FastAPI
+- Building AI-powered applications that solve real operational problems
+- Interested in backend engineering, platform reliability, and applied ML
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Highlights
+
+- Built a fatigue detection backend with approximately 94% alertness classification accuracy
+- Reduced pipeline latency to under 150ms for physiological signal processing
+- Designed a high-availability SOS backend that sustained <200ms latency under simulated 1,000 requests/second load
+- Architected a multi-agent travel assistant that reduced itinerary generation time by 40%
+
+## Tech Stack
+
+**Languages**  
+Python, Go, C/C++, JavaScript, SQL
+
+**Backend**  
+FastAPI, REST API Architecture, MySQL
+
+**AI and Data**  
+Scikit-learn, OpenCV, Pandas, NumPy, Matplotlib, Seaborn
+
+**Tools**  
+Git, GitHub, Linux, Arduino
+
+## Selected Projects
+
+### Driver Wellness Monitoring System
+
+**Python, FastAPI, Scikit-learn, MySQL**
+
+- Engineered a real-time fatigue detection API with approximately 94% classification accuracy
+- Optimized data processing workflows to maintain sub-150ms average response time
+- Deployed ML-driven safety triggers for 50+ concurrent data streams
+
+### Multi-Agent AI Travel Assistant
+
+**Python, FastAPI, Git, Linux**
+
+- Architected a multi-agent orchestration layer reducing itinerary generation time by 40%
+- Built reliable FastAPI endpoints for constraint-based recommendations
+- Structured explicit routing across 5+ specialized agents to improve maintainability
+
+### Real-Time Localized SOS Alert System
+
+**FastAPI, MySQL, JavaScript**
+
+- Built a geo-aware emergency alert backend for responders within a 5km radius
+- Maintained <200ms latency under simulated peak traffic of 1,000 requests/second
+- Designed normalized MySQL schemas for incident tracking with zero data loss in tests
+
+## Education
+
+**Bachelor of Computer Applications (BCA)**  
+Brainware University, Kolkata  
+Aug 2024 - May 2028
+
+## Hackathons and Competitions
+
+- Kharagpur Data Science Hackathon, IIT Kharagpur (Jan 2026)
+- Bharatiya Antariksh Hackathon, ISRO (Sep 2025)
+- Smart India Hackathon, Brainware University (Sep 2025)
+- i.mobilothon 5.0, Volkswagen Group Digital Solutions
+
+## Certifications
+
+- AI/ML Supervised Learning with Scikit-learn (DataCamp)
+- Generative AI: Intro and Applications (IBM)
+- Elements of AI (University of Helsinki)
+- Foundations of Cybersecurity (Google)
+- Getting Started with Go (Coursera)
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=aritraio&show_icons=true&hide_border=true&rank_icon=github)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aritraio&layout=compact&hide_border=true)
