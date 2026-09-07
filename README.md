@@ -132,23 +132,4 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aritraio&theme=github_dark&hide_border=true&layout=compact" alt="Top languages" />
 </p>
 
----
 
-<div align="center">
-
-  <h3>💭 Words to Build By</h3>
-
-  <blockquote>
-    <p>
-      <em>"Real-world engineering begins where tutorials end — design systems that isolate failures gracefully, measure latency in milliseconds, and prioritize production reliability over theory."</em>
-    </p>
-    <p><strong>— Aritra Saha</strong></p>
-  </blockquote>
-
-</div>
-
----
-
-<div align="center">
-  <sub>Designed & engineered with precision by <a href="https://github.com/aritraio">Aritra Saha</a></sub>
-</div>
