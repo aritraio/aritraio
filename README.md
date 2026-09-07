@@ -3,23 +3,24 @@
   <h1>Hi there, I'm <a href="https://github.com/aritraio">Aritra Saha</a> 👋</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Distributed+Systems+%26+Backend+Engineer;Go+%7C+Modern+C%2B%2B+%7C+Python;Designing+High-Throughput+APIs;Real-World+Engineering+Over+Tutorials" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Distributed+Systems+%26+Backend+Engineer;Go+%7C+Modern+C%2B%2B+%7C+Python;Agentic+AI+%26+High-Throughput+APIs;AMD+Hackathon+Winner+%7C+Google+Ambassador" alt="Typing SVG" />
   </a>
 
   <p>
-    Designing distributed systems, high-performance API backends, and real-time robotics/control stacks with a focus on practical, production-ready engineering.
+    Designing distributed systems, high-performance API infrastructure, and agentic AI workflows with a focus on real-world engineering and production reliability.
   </p>
 
   <p>
+    <a href="https://aritraio.github.io/portfolio-website/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    </a>
     <a href="https://www.linkedin.com/in/aritra404/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:string.aritra@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://github.com/aritraio">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
+    <img src="https://img.shields.io/badge/Google_Gemini-Ambassador-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini Ambassador" />
     <img src="https://komarev.com/ghpvc/?username=aritraio&style=for-the-badge&color=0A66C2" alt="Profile views" />
   </p>
 
@@ -29,16 +30,27 @@
 
 ### 🚀 About Me
 
-- 🔭 **Current Focus:** Distributed systems in Go, high-throughput microservices, and real-time control algorithms in C++.
-- ⚙️ **Engineering Mindset:** Production reliability over toy projects; zero-heap allocations, formal safety guarantees, and low-latency pipelines.
-- 🧠 **Deepening Knowledge:** Distributed consensus, concurrent architectures, Lie group kinematics, and optimal control (NMPC/CBF).
-- 🤝 **Collaboration:** Distributed backends in Go, modern C++ systems, and performance-critical API design.
-- 💬 **Ask Me About:** Go, gRPC, Redis internals, modern C++20, API gateways, and system architecture.
+- 🔭 **Current Focus:** Distributed systems in Go, low-latency microservices, and agentic AI pipelines.
+- ⚙️ **Engineering Mindset:** Production reliability over toy projects; zero-heap allocations, formal safety guarantees, and low-latency throughput.
+- 🧠 **Areas of Exploration:** Distributed consensus, concurrent architectures, Lie group kinematics, and optimal control (NMPC/CBF).
+- 💬 **Ask Me About:** Go, gRPC, Redis internals, modern C++20, FastAPI, and system design.
 - 🎓 **Education:** Bachelor of Computer Applications (BCA) • Brainware University (2024 – 2028).
 
 ---
 
-### 🌟 Featured Projects & Systems
+### 🏅 Honors & Key Recognition
+
+- 🏆 **Winner** — AMD Hackathon
+- 🇮🇳 **Final Round / Top 1,500 in India** — Google Big Code 2026 (Competitive Programming)
+- 🌟 **Google Gemini Student Ambassador** — Generative AI & Developer Communities
+- 🚀 **Space Tech Finalist** — Bharatiya Antariksh Hackathon 2025 (ISRO)
+- 📊 **Data Science Competitor** — Kharagpur Data Science Hackathon (IIT Kharagpur)
+- 🏎️ **Autonomous Tech Track** — i.mobilothon 5.0 (Volkswagen Group Digital Solutions)
+- 🐙 **Open-Source Contributor** — GirlScript Summer of Code (GSSoC)
+
+---
+
+### 🌟 Featured Systems & Distributed Infrastructure
 
 | Project | Key Architecture & Highlights | Tech Stack |
 | :--- | :--- | :--- |
@@ -46,6 +58,15 @@
 | **[GoGateway](https://github.com/aritraio/gogateway)**<br/>`High-Performance API Gateway` | • Modular middleware pipeline with **zero-downtime hot reloading**.<br/>• Distributed **Token Bucket rate limiting** with local in-memory fallback.<br/>• JWT validation with **JWKS rotation**, route RBAC & Prometheus metrics. | `Go` `net/http`<br/>`Redis` `Docker`<br/>`Prometheus` |
 | **[AgileQuad-NMPC](https://github.com/aritraio/agile-quadrotor-nmpc)**<br/>`Autonomous Aerial Robotics` | • Real-time 6-DoF trajectory optimization solving **NMPC online at 50–100 Hz**.<br/>• **15-State ES-EKF** on $\mathrm{SO}(3)$ Lie groups for multi-rate IMU/vision fusion.<br/>• Zero-heap dynamic memory allocation & **SIMD vectorization** in MuJoCo. | `C++20` `MuJoCo`<br/>`CasADi` `Eigen3`<br/>`Robotics` |
 | **[Safety-Critical CBF-MPC](https://github.com/aritraio/safety-critical-cbf-mpc)**<br/>`Active Safety Control Filter` | • **100 Hz CBF-QP safety filter** providing formal collision avoidance guarantees.<br/>• Unifies performance LQR/MPC trajectory tracking with **Control Barrier Functions**.<br/>• Non-linear vehicle modeling with **Pacejka Magic Formula** tire dynamics. | `C++` `QP Solvers`<br/>`Control Theory`<br/>`Autonomous Vehicles` |
+
+---
+
+### 🤖 Applied AI & Agentic Solutions
+
+| Project | Highlights & Problem Solved | Tech Stack |
+| :--- | :--- | :--- |
+| **[NeuroNudge](https://github.com/aritraio/sbi-hackathon-2026)**<br/>`SBI GFF Hackathon` | • Agentic AI behavioral-finance engine converting routine banking transactions into personalized financial learning.<br/>• Computes dynamic **Financial Health Score (0–100)** across 5 dimensions.<br/>• Implements behavioral psychology nudges (loss aversion, social proof). | `Agentic AI`<br/>`Python`<br/>`FinTech` |
+| **[Smart Chargesheet Assistant](https://github.com/aritraio/nit-ai-hackathon)**<br/>`NIT AI Hackathon` | • End-to-end NLP pipeline parsing **OCR-noisy Hindi chargesheets and case diaries**.<br/>• Structured case-summary extraction and crime classification via **Gemini API**.<br/>• Deterministic checklist validation with `PRESENT` / `PARTIAL` / `MISSING` detection. | `Google Gemini`<br/>`NLP Pipeline`<br/>`Python` |
 
 ---
 
@@ -71,9 +92,10 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Robotics, AI & Numerical Computing**
+**AI, Robotics & Numerical Computing**
 
 ![C++20](https://img.shields.io/badge/C++20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
