@@ -134,11 +134,18 @@
 
 ---
 
-### 💡 Daily Dev Inspiration
+<div align="center">
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Dev Quote" />
-</p>
+  <h3>💭 Words to Build By</h3>
+
+  <blockquote>
+    <p>
+      <em>"Real-world engineering begins where tutorials end — design systems that isolate failures gracefully, measure latency in milliseconds, and prioritize production reliability over theory."</em>
+    </p>
+    <p><strong>— Aritra Saha</strong></p>
+  </blockquote>
+
+</div>
 
 ---
 
